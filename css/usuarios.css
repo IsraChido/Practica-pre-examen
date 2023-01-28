@@ -1,0 +1,27 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    padding: 5%;
+    background-color: aliceblue;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+
+section {
+    flex: 100%;
+    background-color: aquamarine;
+    border: 5px dashed rgba(9, 223, 194, 0.952);
+    padding: 20px;
+}
+
+aside {
+    flex: 100%;
+    background-color: cyan;
+    border: 5px dashed rgba(9, 223, 194, 0.952);
+    padding: 20px;
+}
